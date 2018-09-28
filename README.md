@@ -2,5 +2,6 @@
 
 Tämän tehtävän ovat tehneet
 
-- tikojakke, Kasperi Alatyppö
-
+- tikojakke
+- SamuliRukkila & ChristianKätkä
+- Kasperi Alatyppö
