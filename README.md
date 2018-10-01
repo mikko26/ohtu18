@@ -1,7 +1,8 @@
-# Ohtu18-forkkitehtävä
+﻿# Ohtu18-forkkitehtävä
 
 Tämän tehtävän ovat tehneet
 
 - tikojakke
 - SamuliRukkila & ChristianKätkä
 - Kasperi Alatyppö
+- Pekka Kääriäinen
