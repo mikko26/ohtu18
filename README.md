@@ -8,4 +8,4 @@ Tämän tehtävän ovat tehneet
 - Pekka Kääriäinen
 - Nisonen Roope
 - Tommi Pekkarinen
-- Jonna Ahlholm
+- jonna ahlholm
