@@ -15,3 +15,4 @@ Tämän tehtävän ovat tehneet
 - Jani Gröhn
 - Janne Eela
 - Jesse Kiilamaa
+- Elina Salminen
