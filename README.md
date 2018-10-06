@@ -16,3 +16,4 @@ Tämän tehtävän ovat tehneet
 - Janne Eela
 - Jesse Kiilamaa
 - Elina Salminen
+- Valtter Manninen
