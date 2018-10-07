@@ -18,3 +18,4 @@ Tämän tehtävän ovat tehneet
 - Elina Salminen
 - Valtter Manninen
 - Teemu Heikkilä
+- Heikki Laakkonen
