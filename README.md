@@ -19,3 +19,4 @@ Tämän tehtävän ovat tehneet
 - Valtter Manninen
 - Teemu Heikkilä
 - Heikki Laakkonen
+- Heini Rinne
